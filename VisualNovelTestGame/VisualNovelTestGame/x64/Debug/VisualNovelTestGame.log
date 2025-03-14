@@ -1,2 +1,2 @@
-﻿  VisualNovelTestGame.cpp
-  VisualNovelTestGame.vcxproj -> C:\Users\leshe\source\repos\VisualNovelTestGame\x64\Debug\VisualNovelTestGame.exe
+﻿  Button.cpp
+LINK : fatal error LNK1168: cannot open C:\Users\rahil\Source\Repos\c315-framework-prototype\VisualNovelTestGame\x64\Debug\VisualNovelTestGame.exe for writing

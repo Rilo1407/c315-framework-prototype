@@ -1,9 +1,11 @@
-﻿  VisualNovelTestGame.cpp
-C:\Users\leshe\source\repos\VisualNovelTestGame\VisualNovelTestGame\VisualNovelTestGame.cpp(49,30): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\leshe\source\repos\VisualNovelTestGame\VisualNovelTestGame\VisualNovelTestGame.cpp(49,24): warning C4305: 'argument': truncation from 'double' to 'float'
+﻿  Button.cpp
+  VisualNovelTestGame.cpp
+C:\Users\rahil\source\repos\c315-framework-prototype\VisualNovelTestGame\VisualNovelTestGame\VisualNovelTestGame.cpp(50,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rahil\source\repos\c315-framework-prototype\VisualNovelTestGame\VisualNovelTestGame\VisualNovelTestGame.cpp(50,24): warning C4305: 'argument': truncation from 'double' to 'float'
   Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 1265 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  1219 of 1233 functions (98.9%) were compiled, the rest were copied from previous compilation.
-    1167 functions were new in current compilation
-    3 functions had inline decision re-evaluated but remain unchanged
-  VisualNovelTestGame.vcxproj -> C:\Users\leshe\source\repos\VisualNovelTestGame\x64\Release\VisualNovelTestGame.exe
+  VisualNovelTestGame.vcxproj -> C:\Users\rahil\Source\Repos\c315-framework-prototype\VisualNovelTestGame\x64\Release\VisualNovelTestGame.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
