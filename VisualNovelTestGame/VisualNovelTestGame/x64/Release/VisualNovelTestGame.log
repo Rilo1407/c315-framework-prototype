@@ -1,0 +1,9 @@
+﻿  VisualNovelTestGame.cpp
+C:\Users\leshe\source\repos\VisualNovelTestGame\VisualNovelTestGame\VisualNovelTestGame.cpp(49,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\leshe\source\repos\VisualNovelTestGame\VisualNovelTestGame\VisualNovelTestGame.cpp(49,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  Finished generating code
+  1219 of 1233 functions (98.9%) were compiled, the rest were copied from previous compilation.
+    1167 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  VisualNovelTestGame.vcxproj -> C:\Users\leshe\source\repos\VisualNovelTestGame\x64\Release\VisualNovelTestGame.exe
